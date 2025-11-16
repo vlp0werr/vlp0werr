@@ -1,4 +1,4 @@
-# Bro 💀
+# Vlad 💀
 
 <div align="center">
 
@@ -16,7 +16,7 @@
 
 ## 😭 About Me
 
-Yo, it's Bro – the self-proclaimed tuff lil legend who's secretly begging for mercy behind the 💀 emojis. 😭💔 From the trenches of endless roasts and code fails, I'm grinding to level up from "script kiddie" to "fullstack savage." Born sometime after the memes exploded, reppin' the chaos of late-night terminals and 3 AM breakdowns.
+Yo, it's Vlad – the self-proclaimed tuff lil legend who's secretly begging for mercy behind the 💀 emojis. 😭💔 From the trenches of endless roasts and code fails, I'm grinding to level up from "script kiddie" to "fullstack savage." Born sometime after the memes exploded, reppin' the chaos of late-night terminals and 3 AM breakdowns.
 
 My vibe? Energetic AF on the surface, but drop a "bor wtf" and watch the 🥀 wilt. Fuelled by savage comebacks, cold coffee, and that one playlist that slaps harder than a failed deploy. Fandoms: Every viral TikTok roast and that one anime where the underdog wins (spoiler: it's me). Let's collab before I skin myself over bad indentation – please? 🙏⚡
 
