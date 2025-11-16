@@ -31,18 +31,6 @@ My vibe? Energetic AF on the surface, but drop a "bor wtf" and watch the 🥀 wi
 
 <div align="center">
 
-graph TD
-    A[Python] --> B[JS%20(When%20It%20Works)]
-    B --> C[React%20(Dreams)]
-    C --> D[Git%20(Prayer%20Mode)]
-    D --> E[VS%20Code%20(My%20Therapist)]
-    A --> F[Memes%20for%20Debugging]
-    style A fill:#3776AB
-    style B fill:#f7df1e
-    style C fill:#61dafb
-    style D fill:#f05032
-    style E fill:#007acc
-    style F fill:#ff69b4
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
@@ -51,7 +39,6 @@ graph TD
 
 </div>
 
-›⩊‹, [16.11.2025 16:54]
 ## 🎯 Current Goals / Journey (No Cap)
 
 - Short-Term: Fix my ego after that last roast. Write code that doesn't make me 😭. Hit 10 stars on a repo.
