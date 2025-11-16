@@ -1,4 +1,3 @@
-›⩊‹, [16.11.2025 17:10]
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:251c6b,100:374b5e&height=300&section=header&text=VLAD&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Frontend%20Developer%20|%20Lipetsk%20→%20Norway&descAlignY=51&descAlign=50)
@@ -28,77 +27,66 @@ I'm a disciplined, growth-obsessed developer who starts every day at 5am with a 
 
 ### **LEVEL 1 / 10** 🏔️
 
-████░░░░░░░░░░░░░░░░░░░░Current Stage:
+████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 10%
+`
 
-**Current Stage:** Building Foundation  
-**Next Milestone:** First freelance project & Advanced React mastery  
+**Current Stage:*Next Milestone:on  
+**Next Milestone:** First freelance project & AUltimate Goal:ery  
 **Ultimate Goal:** Fullstack Developer Role in Norway 🇳🇴
 
 </div>
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Learning Path
 
-<div align="center">
-
-### **Languages**
+<dCurrently Learning# **Currently Learning**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### **Frontend**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=pythoNext on Roadmap
+### **Next on Roadmap**
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-
-### **Backend & Tools**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-csTools I Usete)
+
+### **Tools I Use**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Current Goals & Journey
+## 🚀 CDaily Routine:rney
 
-typescript
-const vlad = {
-  dailyRoutine: {
-    5:00: "Cold shower ❄️",
-    6:00: "Code & learn 💻",
-    8:00: "School 📚",
-    16:00: "Workout 💪",
-    19:00: "Build projects 🔨",
-    22:00: "Rest & plan tomorrow 🌙"
-  },
-  
-  learningPath: [
-    "✅ HTML, CSS, JavaScript fundamentals",
-    "✅ React & component architecture",
-    "🔄 TypeScript & Next.js",
-    "🔄 Backend with Node.js & Express",
-    "📋 PostgreSQL & database design",
-    "📋 Cloud deployment (Vercel, AWS)",
-    "📋 Norwegian language (B2 level)"
-  ],
-  
-  shortTermGoals: [
-    "Build 5 production-ready projects",
-    "Contribute to open source",
-    "Launch personal portfolio site",
-    "Complete first freelance gig"
-  ],
-  
-  dreamJob: "Frontend/Fullstack Developer @ Oslo Tech Company 🇳🇴"
-};
-`
+**Daily Routine:**
+- 5:00 AM - Cold shower ❄️
+- 6:00 AM - Code & learn 💻
+- 8:00 AM - School 📚
+- 4:00 PM - Workout 💪
+- 7:00 PM - Build projects 🔨
+- 10:00 PM - RLearning Roadmap:?
+
+**Learning Roadmap:**
+- ✅ HTML, CSS, JavaScript fundamentals
+- 🔄 Building real projects with vanilla JS
+- 📋 React & component architecture
+- 📋 TypeScript & Next.js
+- 📋 Backend with Node.js & Express
+- 📋 PostgreSQL & database design
+- 📋 Cloud deployment (Vercel, AWS)
+- 📋 NorwegiShort-Term Goals:)
+
+**Short-Term Goals:**
+- Build 5 production-ready projects
+- Contribute to open source
+- Launch personal portfolio site
+- CompleDream Job:ance gig
+
+**Dream Job:** Frontend/Fullstack Developer at an Oslo Tech Company 🇳🇴
 
 ---
 
@@ -106,18 +94,16 @@ const vlad = {
 
 <div align="center">
 
-›⩊‹, [16.11.2025 17:10]
-![Vlad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vlad&show_icons=true&theme=nord&hide_border=true&bg_color=0d1117&title_color=374b5e&icon_color=251c6b&text_color=c9d1d9)
+![Vlad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vlp0werr&show_icons=true&theme=nord&hide_border=true&bg_color=0d1117&title_color=374b5e&icon_color=251c6b&text_color=c9d1d9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vlad&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&title_color=374b5e&text_color=c9d1d9)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vlad&theme=nord&hide_border=true&background=0d1117&ring=374b5e&fire=251c6b&currStreakLabel=c9d1d9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vlp0werr&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&title_color=374b5e&text_color=c9d1d9)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vlp0werr&theme=nord&hide_border=true&background=0d1117&ring=374b5e&fire=251c6b&currStreakLabel=c9d1d9)
 
 </div>
 
 ---
 
-## ⚡ Energy Sources
+## ⚡️ Energy Sources
 
 <div align="center">
 
@@ -127,7 +113,7 @@ const vlad = {
 | The Flash | Magnus Midtbø |
 | | Sergio Nee |
 
-*Goku's determination + Flash's speed = My coding mindset ⚡*
+*Goku's determination + Flash's speed = My coding mindset ⚡️*
 
 </div>
 
@@ -152,7 +138,7 @@ const vlad = {
 
 *"Every morning is a choice. Cold water, warm code, strong body, sharp mind."*
 
-🏔️ Destination: Norway | 💻 Weapon: Code | ⚡ Fuel: Discipline
+🏔️ Destination: Norway | 💻 Weapon: Code | ⚡️ Fuel: Discipline
 
 ---
 
