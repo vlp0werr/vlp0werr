@@ -62,15 +62,15 @@ Next in Line
 
 ---
 
-## 🚀 CDaily Routine:rney
+## 🚀 Daily Routine
 
 **Daily Routine:**
-- 5:00 AM - Cold shower ❄️
+- 5:00 AM - ️Wake up 💀
 - 6:00 AM - Code & learn 💻
 - 8:00 AM - School 📚
 - 4:00 PM - Workout 💪
 - 7:00 PM - Build projects 🔨
-- 10:00 PM - RLearning Roadmap:?
+- 10:00 PM - Learning Roadmap
 
 **Learning Roadmap:**
 - ✅ HTML, CSS, JavaScript fundamentals
