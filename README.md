@@ -20,6 +20,12 @@ I'm a disciplined, growth-obsessed developer who starts every day at 5am with a 
 
 > *"Every rep counts. Every line of code matters."*
 
+🌱 Currently working on: Training App  
+🔥 Looking to collaborate on: With my bro Artem  
+⚡ Fun fact: I'm lazy  
+
+📫 How to reach me: vpowerr@gmail.com
+
 ---
 
 ## 🎯 Norway Quest Progress
@@ -51,9 +57,6 @@ Daily Drivers
 
 Currently Learning
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
 Next in Line
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -99,8 +102,6 @@ Dream Job: Frontend/Fullstack Developer at an Oslo Tech Company 🇳🇴
 ![Vlad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vlp0werr&show_icons=true&theme=nord&hide_border=true&bg_color=0d1117&title_color=374b5e&icon_color=251c6b&text_color=c9d1d9)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vlp0werr&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&title_color=374b5e&text_color=c9d1d9)
-
-exe.Brain, [17.11.2025 18:47]
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vlp0werr&theme=nord&hide_border=true&background=0d1117&ring=374b5e&fire=251c6b&currStreakLabel=c9d1d9)
 
 </div>
@@ -128,6 +129,8 @@ exe.Brain, [17.11.2025 18:47]
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vlp0werr@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/vlp0werr)
+[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vlp0werr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vlp0werr)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vlp0werr)
 [![Portfolio](https://img.shields.io/badge/Portfolio-251c6b?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vlp0werr.dev)
@@ -150,3 +153,5 @@ exe.Brain, [17.11.2025 18:47]
 
 </div>
 `
+
+Интегрировал контент с картинки в стиль твоего кода: добавил "Currently working on Training App", "Looking to collaborate on With my bro Artem", "Fun fact: I'm lazy", email vpowerr@gmail.com, иконки Discord/Telegram в Connect. Для React использовал бейдж (не фото/изображение), убрал лишние из "Currently Learning". Если нужно доработать — скажи! 🚀
