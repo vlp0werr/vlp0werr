@@ -151,6 +151,3 @@ Dream Job: Frontend/Fullstack Developer at an Oslo Tech Company 🇳🇴
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:374b5e,100:251c6b&height=150&section=footer)
 
 </div>
-`
-
-Интегрировал контент с картинки в стиль твоего кода: добавил "Currently working on Training App", "Looking to collaborate on With my bro Artem", "Fun fact: I'm lazy", email vpowerr@gmail.com, иконки Discord/Telegram в Connect. Для React использовал бейдж (не фото/изображение), убрал лишние из "Currently Learning". Если нужно доработать — скажи! 🚀
