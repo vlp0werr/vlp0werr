@@ -1,1 +1,22 @@
-<svg fill="none" viewBox="0 0 800 200" width="800" height="200" xmlns="http://www.w3.org/2000/svg"><rect width="800" height="200" fill="#0d0d0d"/><path d="M40 60 Q120 10 250 40 T500 35 T760 55" stroke="#fff" stroke-width="4" stroke-linecap="round"/><text x="50" y="70" font-family="Comic Sans MS, 'Marker Felt', 'Permanent Marker', cursive" font-size="32" fill="#fff" transform="rotate(-6,50,70)">Vlad — Fullstack Dev</text><path d="M40 140 Q200 180 400 150 T760 135" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-dasharray="6 10"/></svg>
+<svg fill="none" viewBox="0 0 800 200" width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="200" fill="#0d0d0d"/>
+
+  <!-- верхняя линия -->
+  <path d="M40 60 Q120 10 250 40 T500 35 T760 55" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- текст по центру -->
+  <text 
+    x="400" 
+    y="95" 
+    font-family="Comic Sans MS, 'Marker Felt', 'Permanent Marker', cursive" 
+    font-size="32" 
+    fill="#fff" 
+    text-anchor="middle"
+    transform="rotate(-6,400,95)"
+  >
+    Vlad — Fullstack Dev
+  </text>
+
+  <!-- нижняя линия -->
+  <path d="M40 140 Q200 180 400 150 T760 135" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-dasharray="6 10"/>
+</svg>
