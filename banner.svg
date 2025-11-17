@@ -1,22 +1,17 @@
-<svg fill="none" viewBox="0 0 800 200" width="800" height="200" xmlns="http://www.w3.org/2000/svg">
-  <rect width="800" height="200" fill="#0d0d0d"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="400">
+  <!-- background -->
+  <rect x="0" y="0" width="1600" height="400" rx="40" ry="40" fill="#0d1117"/>
 
-  <!-- верхняя линия -->
-  <path d="M40 60 Q120 10 250 40 T500 35 T760 55" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
-
-  <!-- текст по центру -->
-  <text 
-    x="400" 
-    y="95" 
-    font-family="Comic Sans MS, 'Marker Felt', 'Permanent Marker', cursive" 
-    font-size="32" 
-    fill="#fff" 
+  <!-- centered text -->
+  <text
+    x="50%"
+    y="50%"
+    font-size="90"
+    fill="#58a6ff"
+    font-family="Arial"
+    font-weight="bold"
     text-anchor="middle"
-    transform="rotate(-6,400,95)"
-  >
+    dominant-baseline="middle">
     Vlad — Fullstack Dev
   </text>
-
-  <!-- нижняя линия -->
-  <path d="M40 140 Q200 180 400 150 T760 135" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-dasharray="6 10"/>
 </svg>
