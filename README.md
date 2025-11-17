@@ -1,22 +1,50 @@
 <p align="center">
 <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="200" viewBox="0 0 1792 512">
-  <defs>
-    <style>
-      .big { font-family: "Comic Sans MS", "Segoe Script", "Segoe UI", sans-serif; font-size:72px; font-weight:700; }
-      .right { font-family: "Comic Sans MS", "Segoe UI", sans-serif; font-size:46px; font-weight:700; }
-    </style>
-  </defs>
 
-  <!-- green hand-drawn style bg -->
-  <rect x="20" y="20" rx="40" ry="40" width="1750" height="460" fill="#2ecc71" stroke="#0b3d1f" stroke-width="6"/>
+  <!-- green background -->
+  <rect x="20" y="20" rx="40" ry="40"
+        width="1750" height="460"
+        fill="#2ecc71"
+        stroke="#0b3d1f"
+        stroke-width="6" />
+
+  <!-- left emoji -->
+  <text x="140" y="170"
+        font-size="80"
+        dominant-baseline="middle"
+        style="font-family: 'Segoe UI Emoji';">
+    👋
+  </text>
 
   <!-- left text -->
-  <text x="140" y="160" font-size="70" style="font-family: 'Segoe UI Emoji'">👋</text>
-  <text x="240" y="165" class="big" fill="#08321a">Vlad — Fullstack Frontend Dev</text>
-  <text x="240" y="230" class="big" fill="#08321a">(in progress)</text>
+  <text x="250" y="150"
+        font-size="70"
+        fill="#08321a"
+        style="font-family: 'Comic Sans MS', 'Segoe UI', sans-serif; font-weight:700;">
+    Vlad — Fullstack Frontend Dev
+  </text>
+
+  <text x="250" y="230"
+        font-size="60"
+        fill="#08321a"
+        style="font-family: 'Comic Sans MS', 'Segoe UI', sans-serif; font-weight:700;">
+    (in progress)
+  </text>
 
   <!-- right text -->
-  <text x="1050" y="190" class="right" fill="#06220f">Projects,</text>
-  <text x="1050" y="250" class="right" fill="#06220f">Goals, and a bit about me</text>
+  <text x="1100" y="180"
+        font-size="55"
+        fill="#06220f"
+        style="font-family: 'Comic Sans MS', 'Segoe UI', sans-serif; font-weight:700;">
+    Projects,
+  </text>
+
+  <text x="1100" y="250"
+        font-size="55"
+        fill="#06220f"
+        style="font-family: 'Comic Sans MS', 'Segoe UI', sans-serif; font-weight:700;">
+    Goals, and a bit about me
+  </text>
+
 </svg>
 </p>
