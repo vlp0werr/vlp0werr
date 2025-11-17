@@ -1,3 +1,4 @@
+`markdown
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:251c6b,100:374b5e&height=300&section=header&text=VLAD&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Frontend%20Developer%20|%20Lipetsk%20→%20Norway&descAlignY=51&descAlign=50)
@@ -10,10 +11,10 @@
 
 ## 👋 About Me
 
-**Name:** Vlad  
-**Age:** 14 | Born: December 24, 2010  
-**Location:** Lipetsk, Russia 🇷🇺  
-**Mission:** Become a world-class Fullstack Frontend Developer and relocate to Norway 🇳🇴
+Name: Vlad  
+Age: 14 | Born: December 24, 2010  
+Location: Lipetsk, Russia 🇷🇺  
+Mission: Become a world-class Fullstack Frontend Developer and relocate to Norway 🇳🇴
 
 I'm a disciplined, growth-obsessed developer who starts every day at 5am with a cold shower. I believe in challenging myself constantly — whether it's through code, sports, or pushing physical limits. My goal is simple: master the craft, build incredible projects, and earn my ticket to Norway.
 
@@ -25,21 +26,20 @@ I'm a disciplined, growth-obsessed developer who starts every day at 5am with a 
 
 <div align="center">
 
-### **LEVEL 1 / 10** 🏔️
+### LEVEL 1 / 10 🏔
 
 ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 10%
-`
 
-**Current Stage:*Next Milestone:on  
-**Next Milestone:** First freelance project & AUltimate Goal:ery  
-**Ultimate Goal:** Fullstack Developer Role in Norway 🇳🇴
+Current Stage: Next Milestone  
+
+Next Milestone: First freelance project & AI tools mastery  
+Ultimate Goal: Fullstack Developer Role in Norway 🇳🇴
 
 </div>
 
 ---
 
-
-## 🛠️ Learning Path
+## 🛠 Learning Path
 ---
 ### Current Stack & Learning Path
 
@@ -51,9 +51,9 @@ Daily Drivers
 
 Currently Learning
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="(https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="(https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src=" CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-cs"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
 Next in Line
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -64,15 +64,15 @@ Next in Line
 
 ## 🚀 Daily Routine
 
-**Daily Routine:**
-- 5:00 AM - ️Wake up 💀
+Daily Routine:
+- 5:00 AM - Wake up 💀
 - 6:00 AM - Code & learn 💻
 - 8:00 AM - School 📚
 - 4:00 PM - Workout 💪
 - 7:00 PM - Build projects 🔨
-- 10:00 PM - still not sleep💀💀
+- 10:00 PM - Still not sleep 💀💀
 
-**Learning Roadmap:**
+Learning Roadmap:
 - ✅ HTML, CSS, JavaScript fundamentals
 - 🔄 Building real projects with vanilla JS
 - 📋 React & component architecture
@@ -80,15 +80,15 @@ Next in Line
 - 📋 Backend with Node.js & Express
 - 📋 PostgreSQL & database design
 - 📋 Cloud deployment (Vercel, AWS)
-- 📋 NorwegiShort-Term Goals:)
+- 📋 Norwegian language basics
 
-**Short-Term Goals:**
+Short-Term Goals:
 - Build 5 production-ready projects
 - Contribute to open source
 - Launch personal portfolio site
-- CompleDream Job:ance gig
+- Complete first freelance gig
 
-**Dream Job:** Frontend/Fullstack Developer at an Oslo Tech Company 🇳🇴
+Dream Job: Frontend/Fullstack Developer at an Oslo Tech Company 🇳🇴
 
 ---
 
@@ -99,6 +99,8 @@ Next in Line
 ![Vlad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vlp0werr&show_icons=true&theme=nord&hide_border=true&bg_color=0d1117&title_color=374b5e&icon_color=251c6b&text_color=c9d1d9)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vlp0werr&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&title_color=374b5e&text_color=c9d1d9)
+
+exe.Brain, [17.11.2025 18:47]
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vlp0werr&theme=nord&hide_border=true&background=0d1117&ring=374b5e&fire=251c6b&currStreakLabel=c9d1d9)
 
 </div>
@@ -125,10 +127,10 @@ Next in Line
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vlad@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vlad)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vlad)
-[![Portfolio](https://img.shields.io/badge/Portfolio-251c6b?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vlad.dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vlp0werr@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vlp0werr)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vlp0werr)
+[![Portfolio](https://img.shields.io/badge/Portfolio-251c6b?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vlp0werr.dev)
 
 </div>
 
@@ -140,7 +142,7 @@ Next in Line
 
 *"Every morning is a choice. Cold water, warm code, strong body, sharp mind."*
 
-🏔️ Destination: Norway | 💻 Weapon: Code | ⚡️ Fuel: Discipline
+🏔 Destination: Norway | 💻 Weapon: Code | ⚡️ Fuel: Discipline
 
 ---
 
