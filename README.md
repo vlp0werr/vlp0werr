@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vlp0werr/vlp0werr/main/banner.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/vlp0werr/vlp0werr/main/banner.svg" width="100%" height="300px" />
 </p>
 
 <p align="center">
