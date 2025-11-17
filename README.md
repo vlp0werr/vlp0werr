@@ -3,7 +3,7 @@
 # Hi 👋, I'm Vlad
 <br/>
 
-A passionate Full Stack Developer from [Your Location]. I love building cool stuff and learning new tech!
+A passionate Full Stack Developer from Lipetsk, Russia. I love building cool stuff and learning new tech!
 
 <br/>
 
@@ -17,8 +17,7 @@ A passionate Full Stack Developer from [Your Location]. I love building cool stu
 <br/>
 
 ## 📱 Connect with Me
-[<img src="https://discord.com/assets/6debd47ed13483642cf09e832ed0bc1a.png" width="32" alt="Discord">](https://discord.com/users/your-username)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="32" alt="Telegram">](tg://resolve?domain=yourusername)
+[<img src="https://discord.com/assets/6debd47ed13483642cf09e832ed0bc1a.png" width="32" alt="Discord">](https://discord.com/users/vlp0werr)
 
 <br/>
 
