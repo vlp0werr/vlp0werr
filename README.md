@@ -1,4 +1,3 @@
-`markdown
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:251c6b,100:374b5e&height=300&section=header&text=VLAD&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Frontend%20Developer%20|%20Lipetsk%20→%20Norway&descAlignY=51&descAlign=50)
