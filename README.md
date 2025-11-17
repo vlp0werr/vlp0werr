@@ -3,52 +3,48 @@
 </p>
 
 <p align="center">
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="200" viewBox="0 0 1792 512">
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="320" viewBox="0 0 1600 320" role="img" aria-label="Vlad banner">
+  <!-- background -->
+  <rect x="0" y="0" width="1600" height="320" rx="28" ry="28"
+        fill="#2ecc71" stroke="#0b3d1f" stroke-width="10" />
 
-  <!-- green background -->
-  <rect x="20" y="20" rx="40" ry="40"
-        width="1750" height="460"
-        fill="#2ecc71"
-        stroke="#0b3d1f"
-        stroke-width="6" />
-
-  <!-- left emoji -->
-  <text x="140" y="170"
-        font-size="80"
-        dominant-baseline="middle"
-        style="font-family: 'Segoe UI Emoji';">
-    👋
+  <!-- angled left headline (styled to match provided image) -->
+  <text x="140" y="140"
+        font-family="Montserrat, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+        font-style="italic"
+        font-weight="800"
+        font-size="64"
+        fill="#05321a"
+        transform="rotate(-16 140,140)"
+        paint-order="stroke fill"
+        stroke="#05321a"
+        stroke-width="0.2">
+    Vlad — Fullstack Dev
   </text>
 
-  <!-- left text -->
-  <text x="250" y="150"
-        font-size="70"
+  <!-- angled small note under headline -->
+  <text x="140" y="195"
+        font-family="Montserrat, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+        font-style="italic"
+        font-weight="600"
+        font-size="28"
         fill="#08321a"
-        style="font-family: 'Comic Sans MS', 'Segoe UI', sans-serif; font-weight:700;">
-    Vlad — Fullstack Frontend Dev
-  </text>
-
-  <text x="250" y="230"
-        font-size="60"
-        fill="#08321a"
-        style="font-family: 'Comic Sans MS', 'Segoe UI', sans-serif; font-weight:700;">
+        transform="rotate(-16 140,195)">
     (in progress)
   </text>
 
-  <!-- right text -->
-  <text x="1100" y="180"
-        font-size="55"
-        fill="#06220f"
-        style="font-family: 'Comic Sans MS', 'Segoe UI', sans-serif; font-weight:700;">
-    Projects,
+  <!-- right-side clean info (contrast) -->
+  <text x="1020" y="180"
+        font-family="Arial, 'Segoe UI', Helvetica, sans-serif"
+        font-weight="700"
+        font-size="32"
+        fill="#06220f">
+    Projects • Goals • About me
   </text>
 
-  <text x="1100" y="250"
-        font-size="55"
-        fill="#06220f"
-        style="font-family: 'Comic Sans MS', 'Segoe UI', sans-serif; font-weight:700;">
-    Goals, and a bit about me
-  </text>
-
+  <!-- small decorative accent under right text -->
+  <path d="M1000 200 q80 28 150 0" fill="none" stroke="#06220f" stroke-width="6" stroke-linecap="round" opacity="0.08"/>
 </svg>
+
+
 </p>
