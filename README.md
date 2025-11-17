@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="./banner.svg" width="100%" />
+</p>
+
+<p align="center">
 <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="200" viewBox="0 0 1792 512">
 
   <!-- green background -->
